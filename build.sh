@@ -1,1 +1,1 @@
-sudo docker build . -t angieavm/app_name:1
+docker build . -t angieavm/app_name:1
